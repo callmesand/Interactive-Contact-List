@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+    <string name="workphone">Work</string>
+
+    <string name="homephone">Home</string>
+
+    <string name="personalphone">Personal</string>
+
+
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+
+    <string name="action_delete_all_entries">Delete All Items</string>
+
+
+    <string name="editor_activity_title_new_product">Add an item</string>
+
+
+    <string name="action_save">Save</string>
+
+
+    <string name="action_delete">Delete</string>
+
+
+    <string name="product_name">Product</string>
+
+
+    <string name="product_grade">Product grade</string>
+
+
+    <string name="category_measurement">Quantity</string>
+
+
+    <string name="hint_product_name">Product name</string>
+
+
+    <string name="hint_product_model">Model</string>
+
+
+    <string name="hint_product_quantity">Quantity</string>
+
+
+    <string name="unit_product_quantity">pcs</string>
+
+    <string name="grade_unknown">Unknown</string>
+
+
+    <string name="grade_new">New</string>
+
+
+    <string name="grade_used">Used</string>
+
+
+    <string name="editor_insert_product_successful">Item saved</string>
+
+
+    <string name="editor_insert_product_failed">Error with saving item</string>
+
+
+    <string name="empty_view_title_text">No products, no money, no funny…</string>
+
+
+    <string name="empty_view_subtitle_text">Get started by adding an item</string>
+    <string name="editor_activity_title_edit_product">Edit Product</string>
+
+
+    <string name="editor_update_product_successful">Item updated</string>
+
+
+    <string name="editor_update_product_failed">Error with updating item</string>
+
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+
+    <string name="keep_editing">Keep Editing</string>
+
+
+    <string name="editor_delete_product_successful">Item deleted</string>
+
+
+    <string name="editor_delete_product_failed">Error with deleting item</string>
+
+
+    <string name="delete_dialog_msg">Delete this item?</string>
+
+
+    <string name="delete">Delete</string>
+
+
+    <string name="cancel">Cancel</string>
+
+
+    <string name="unknown_model">Unknown model</string>
+
+
+    <string name="product_photo">Photo</string>
+
+
+    <string name="supplier">Supplier</string>
+
+
+    <string name="hint_supplier_name">E.g.: Supplier Name</string>
+
+
+    <string name="hint_email_supplier">E.g.: email@supplier.com</string>
+
+
+    <string name="currency_symbol">€</string>
+
+
+    <string name="price_hint_editor_activity">E.g.: 28.99</string>
+
+
+    <string name="add_photo_hint_text">Tap to add a photo</string>
+
+
+    <string name="edit_photo_hint_text">Tap to change a photo</string>
+
+
+    <string name="intent_type">image/*</string>
+
+
+    <string name="select_image">Select image</string>
+
+
+    <string name="action_order_more">Order more</string>
+
+
+    <string name="validation_msg_product_name">Product name is required</string>
+
+
+    <string name="validation_msg_product_quantity">Quantity is required</string>
+
+    <string name="validation_msg_product_price">Price is required</string>
+
+
+    <string name="validation_msg_product_image">Photo of product is required</string>
+
+
+    <string name="error_msg_stock_update">Issue with upload value of quantity</string>
+
+
+    <string name="buy_msg_confirm">Item has been sold</string>
+
+
+    <string name="no_product_in_stock">No available product in stock</string>
+
+
+    <string name="in_stock">In stock:</string>
+
+
+    <string name="pcs_unit">pcs</string>
+
+
+    <string name="euro_currency_sign">€</string>
+
+
+    <string name="example_model">DMC-370ZX</string>
+
+
+    <string name="example_name_of_item">Sony</string>
+
+
+    <string name="example_price">199,99</string>
+
+
+    <string name="example_quantity">9</string>
+
+
+    <string name="dummy_data_product_name">SONY</string>
+
+
+    <string name="dummy_data_product_model">EXAMPLE-J34AL</string>
+
+
+    <string name="dummy_data_supplier_email">orders.storehouse@sony.com</string>
+
+
+    <string name="dummy_data_supplier_name">John Doe</string>
+
+
+    <string name="toast_out_of_stock_msg">Product is out of stock!</string>
+
+
+</resources>
+
